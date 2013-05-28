@@ -1,0 +1,13 @@
+.*
+*.swp
+*.bak
+*.exe
+*.sublime-workspace
+src
+tmp/*
+!.gitignore
+bin/
+pkg/
+aiwannet
+aiwannet.zip
+temp/
